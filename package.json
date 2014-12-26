@@ -1,0 +1,33 @@
+{
+  "name": "gulp-coffee-react",
+  "description": "Compile CoffeeScript & React files",
+  "version": "1.0.0",
+  "homepage": "http://github.com/cheft/gulp-coffee-react",
+  "repository": "git://github.com/wearefractal/gulp-coffee-react.git",
+  "author": "cheft <cn.cheft@gmail.com>",
+  "main": "./index.js",
+  "keywords": [
+    "gulp plugin",
+    "react",
+    "coffee-script",
+    "jsx"
+  ],
+  "dependencies": {
+    "coffee-react-transform": "~2.1.0",
+    "coffee-script": "~1.8.0",
+    "through2": "^0.6.1",
+    "gulp-util": "^3.0.0",
+    "merge": "^1.1.3",
+    "vinyl-sourcemaps-apply": "~0.1.1"
+  },
+  "devDependencies": {
+    "gulp-sourcemaps": "^1.1.1",
+    "mocha": "^2.0.0",
+    "should": "^4.0.4"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
