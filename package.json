@@ -3,7 +3,7 @@
   "description": "Compile CoffeeScript & React files",
   "version": "1.0.0",
   "homepage": "http://github.com/cheft/gulp-coffee-react",
-  "repository": "git://github.com/wearefractal/gulp-coffee-react.git",
+  "repository": "git://github.com/cheft/gulp-coffee-react.git",
   "author": "cheft <cn.cheft@gmail.com>",
   "main": "./index.js",
   "keywords": [
